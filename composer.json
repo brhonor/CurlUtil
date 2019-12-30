@@ -1,0 +1,21 @@
+{
+    "name": "stardust/curlutil",
+    "description": "CurlUtil Support [GET POST DELETE PUT]",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "CurlUtil\\": "src/CurlUtil"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "stardust",
+            "email": "boran6666@163.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
